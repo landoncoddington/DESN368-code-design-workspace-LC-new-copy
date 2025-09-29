@@ -41,11 +41,11 @@ As you complete each tool setup, **come back and update the "My Toolkit" section
 ## 🛠️ **My Toolkit**
 *Update these links as you complete each tool setup:*
 - **GitHub Profile:**  ⏳
-- **Workspace (Forked Repo):** (https://github.com/sicxz/DESN368-code-design-workspace) ⏳
-- **Figma:** [Add your Figma username here] ⏳
-- **CodePen:** [Add your CodePen profile URL here] ⏳
+- **Workspace (Forked Repo):** [(https://github.com/landoncoddington)] ⏳
+- **Figma:** [lcoddington1] ⏳
+- **CodePen:** [https://codepen.io/landoncoddington] ⏳
 - **LiveCode:** [Add your LiveCode profile here] ⏳
-- **GitHub Student Pack:** [Confirm approval status here] ⏳  
+- **GitHub Student Pack:** [approved] ⏳  
 
 ### **How to Update Your Toolkit:**
 1. **Click the pencil icon** (✏️) at the top right of this README  

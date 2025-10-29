@@ -44,10 +44,10 @@ I had never used github before this class and learning to use github and how to 
 - we used codedex.io and we made a few new html pages using just basic html including making a recipe. We made Wiki articles too, which lead to us making a tribute page using the same person we made the wiki page about.
 
 **Files:**
-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/craigslist-ad.html
-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/lorem-ipsum.html
-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/wiki-article.html
-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/recipe%20site/recipe.html
+-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/craigslist-ad.html
+-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/lorem-ipsum.html
+-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/wiki-article.html
+-https://landoncoddington.github.io/DESN368-code-design-workspace-f25/desn368/week%202/recipe%20site/recipe.html
 ---
 
 ## Week 3 - Th3 C4sc4d3 B3g1n5

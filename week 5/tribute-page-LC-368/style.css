@@ -9,7 +9,9 @@
             background-color: #F5B7B1; 
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding-top: 20px;
         }
 
         .header {

@@ -1,0 +1,142 @@
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter';
+            background-color: #F5B7B1; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .header {
+            font-family: "Playfair Display";
+            background: white;
+            padding: 30px;
+            text-align: center; 
+            margin-bottom: 20px; 
+        }
+
+        .header h1 {
+            font-family: "playfair-display";
+            background-color:#fff;
+            font-size: 96px;
+            color: #2C3E50; 
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-family: "playfair-display";
+            background-color: #fff;
+            color: #2C3E50;
+            font-size: 32px;
+            font-weight: bold;
+        }
+
+        .photo-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #F5B7B1;
+    padding: 18px;
+    margin: 0;
+}
+figcaption {
+    font-family: 'Inter';
+    background: #F5B7B1;
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 32px;
+    align-self: flex-center; 
+    width: 1169px;      
+    margin-left: 18px; 
+}
+        .photo-section img {
+            width: 1169px;
+            height: 877px;
+            margin-top: 46px;
+            margin-left: 146px;
+            margin-right: 125px;
+            margin-bottom: 10px;
+        }
+
+
+        .section {
+            padding: 54px 125px;
+        }
+
+        .section-title:first-of-type {
+            font-family: "Playfair Display";
+            background: #5DADE2;
+            color: white;
+            padding: 12px 30px;
+            font-size: 48px;
+            font-weight: normal;
+        }
+
+        .section-title{
+            font-family: "Playfair Display";
+            background: #5DADE2;
+            color: white;
+            padding: 12px 30px;
+            font-size: 48px;
+            font-weight: normal;
+}
+
+        .timeline-item {
+            margin: 12px 0;
+            line-height: 1.6;
+            color: #2C3E50;
+            font-size: 32px;
+        }
+
+        .timeline-item strong {
+            color: #2c3e50;
+            font-weight: bold;
+        }
+
+        .quote {
+            font-size: 32px;
+            font-family: 'Inter';          
+            background: #fff9e6;
+            padding: 15px 20px;
+            margin: 12px 0;
+            font-style: italic;
+            color: #2C3E50;
+            line-height: 1.6;
+        }
+
+        .quote-author {
+            font-family: 'Inter';          
+            text-align: right;
+            margin-top: 8px;
+            font-weight: bold;
+            color: #2C3E50;
+            font-style: normal;
+        }
+
+        .listen-section {
+            font-family: "playfair-display";
+            background: #F7DC6F;
+            color: #5D6D7E;
+            padding: 12px 30px;
+            font-size: 48px;
+        }
+
+        .links {
+            background: #2C3E50;
+            padding: 69px 136px;
+        }
+
+        .links a {
+            display: block;
+            color: #F7DC6F;
+            margin: 8px 0;
+            font-size: 32px;
+            line-height: 1.5;
+        }
